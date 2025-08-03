@@ -17,6 +17,8 @@
 `source venv/bin/activate`
 - Flask-kirjaston asennus:
 `pip install flask`
+- Tietokannan alustus:
+`sqlite3 database.db < schema.sql`
 - Sovelluksen käynnistys:
 `flask run`
 - Sovelluksen sulkeminen:
