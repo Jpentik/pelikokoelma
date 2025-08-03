@@ -1,6 +1,6 @@
 # Pelikokoelma
 
-- Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
+- Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen. (Tehty)
 - Käyttäjä pystyy lisäämään, muokkaamaan ja poistamaan pelejä.
 - Käyttäjä näkee sovellukseen lisätyt pelit.
 - Käyttäjä pystyy etsimään pelejä hakusanalla.
