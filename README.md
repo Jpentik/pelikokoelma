@@ -11,8 +11,9 @@
 
 # Asennus- ja käyttöohjeet 3.8.2025
 
-- Juurihakemistossa virtuaaliympäristön luonti ja käynnistys:
+- Juurihakemistossa virtuaaliympäristön luonti:
 `python3 -m venv venv`
+- Virtuaaliympäristön käynnistys:
 `source venv/bin/activate`
 - Flask-kirjaston asennus:
 `pip install flask`
@@ -27,4 +28,4 @@ Sovelluksen toiminnot:
 - Kirjautumissivu:
 `http://127.0.0.1:5000/`
 - Rekisteröitymissivu:
-- `http://127.0.0.1:5000/register` 
+`http://127.0.0.1:5000/register` 
